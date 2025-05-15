@@ -1,1 +1,1 @@
-[{"name":"Test Item","minStock":5,"currentStock":0},{"name":"test","minStock":5,"currentStock":5},{"name":"cable","minStock":22,"currentStock":5},{"name":"Test3","minStock":10,"currentStock":14},{"name":"cable 2M","minStock":13,"currentStock":3}]
+[{"name":"Test Item","minStock":5,"currentStock":2},{"name":"test","minStock":5,"currentStock":5},{"name":"cable","minStock":22,"currentStock":5},{"name":"Test3","minStock":10,"currentStock":14},{"name":"cable 2M","minStock":13,"currentStock":3}]
